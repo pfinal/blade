@@ -1,0 +1,22 @@
+{
+    "name": "pfinal/blade",
+    "description": "an independent version of laravel view template - blade",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/pfinal/blade/issues",
+        "source": "https://github.com/pfinal/blade"
+    },
+    "authors": [
+        {
+            "name": "Zou Yiliang"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "PFinal\\Blade\\": "src/"
+        }
+    }
+}
