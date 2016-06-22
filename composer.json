@@ -1,6 +1,6 @@
 {
     "name": "pfinal/blade",
-    "description": "an independent version of laravel view template - blade",
+    "description": "一个提取自Laravel的模引擎 - Blade",
     "license": "MIT",
     "support": {
         "issues": "https://github.com/pfinal/blade/issues",
